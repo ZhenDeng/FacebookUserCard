@@ -6,7 +6,7 @@ This project was generated with [React](https://github.com/facebook/react).
 
 ## Description
 
-this project is a number increment calculator.
+this project is a facebook user api card display project.
 
 ## How to use
 
